@@ -1,0 +1,5 @@
+لمعرفة الحاله> git status
+لانشاء ملف > touch fileName.extention 
+لاضافة الملفات الى المستودع>git add fileName.exten fileName2.exten 
+لعمل كومت>"git commit -m "write note 
+لاضافة كل الملفات > .  git add   
